@@ -1,0 +1,11 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/tiandasuradamb.appspot.com/o/rotting-christ.jpg?alt=media&token=97eb91e1-58c8-4e4d-9b3a-00816c0ab78c');
+    background-position: top center;
+    background-size: cover;
+    padding: 15% 20% 35% 20%;
+}
+
+.nombre{
+    text-align: center;
+}
+
